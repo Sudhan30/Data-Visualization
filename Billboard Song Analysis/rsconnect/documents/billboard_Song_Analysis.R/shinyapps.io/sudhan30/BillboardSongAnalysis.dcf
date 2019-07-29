@@ -1,0 +1,12 @@
+name: BillboardSongAnalysis
+title: BillboardSongAnalysis
+username:
+account: sudhan30
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1055643
+bundleId: 2272392
+url: https://sudhan30.shinyapps.io/BillboardSongAnalysis/
+when: 1564361943.17523
+asMultiple: FALSE
+asStatic: FALSE
